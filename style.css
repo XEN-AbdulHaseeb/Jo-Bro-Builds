@@ -1,0 +1,30 @@
+body{
+    background-color: black
+}
+
+.caption-alignment{
+    position: absolute;
+    width: 30vw;
+    text-align: left;
+    left: 180px;
+    top: 0px;
+}
+
+.text-width{
+    width: 35vw;
+}
+@font-face {
+    font-family: "ds";
+    src: url("fonts/VanrottDestroy-Rpv06.otf");
+}
+
+.ds-font{
+    font-family: "ds";
+}
+
+#first-slide-text{
+    position: absolute; 
+    left: 38vw; 
+    top: 50vh;
+}
+
